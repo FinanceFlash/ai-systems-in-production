@@ -20,7 +20,7 @@ Production-grade LLM, RAG, and agentic architectures: from first principles thro
 | 09 | [Observability](09_AI_OBSERVABILITY_IMPLEMENTATION.md) |
 | 10 | [AI operations](10_AI_OPERATIONS_IMPLEMENTATION.md) |
 
-![AI system reference architecture](assets/AI_System_Design_Part_1_Complete_System.png)
+![AI system reference architecture](https://raw.githubusercontent.com/FinanceFlash/unvibecode/main/AI%20Engineering%20Cheatsheet/AI%20system%20design/assets/AI_System_Design_Part_1_Complete_System.png)
 
 ## Learn by engineering responsibility
 
