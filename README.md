@@ -32,4 +32,4 @@ Start with first principles, then follow a specific application domain such as R
 
 Practical improvements, tested examples, corrections, performance benchmarks, and production incident lessons are welcome. Please open an issue with your use case, constraints, and evidence before proposing major changes.
 
-Maintained by [FinanceFlash](https://github.com/FinanceFlash).
+Maintained by divya@alphashots.ai
