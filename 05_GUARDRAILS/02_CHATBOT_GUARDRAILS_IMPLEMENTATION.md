@@ -114,6 +114,6 @@ Treat the listed failures as a minimum inventory. Ask which additional failure p
 ## Source notes
 
 - [NeMo configuration reference](https://docs.nvidia.com/nemo/guardrails/latest/configure-guardrails/configuration-reference) documents embedding-based intent matching and fallback configuration.
-- [Presidio supported entities](https://microsoft.github.io/presidio/supported_entities/) documents recognizer coverage; validate the languages and identifiers relevant to the application.
+- [Presidio supported entities](https://presidio.dataprivacystack.org/supported_entities/) documents recognizer coverage; validate the languages and identifiers relevant to the application.
 
 The stage plan and failure cases are engineering recommendations. Detector coverage and latency require application-specific evaluation.

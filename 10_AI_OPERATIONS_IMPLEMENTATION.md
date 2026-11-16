@@ -353,7 +353,7 @@ Prefer scoped controls—one route, tool, source, worker, index, or configuratio
 
 ### Sample AI incident report
 
-**[An update on recent Claude Code quality reports — Anthropic](https://www.anthropic.com/engineering/april-23-postmortem)**
+**[An update on recent Claude Code quality reports — Anthropic](https://www.anthropic.com/research/april-23-postmortem)**
 
 It is useful because the incident involved application-level quality regressions rather than a simple outage: reasoning-effort defaults, context handling, and a system-prompt change affected different traffic slices. The postmortem explains delayed detection, rollback, and stronger release controls.
 
@@ -549,9 +549,9 @@ Start with:
 1. OpenRouter. [Provider routing](https://openrouter.ai/docs/guides/routing/provider-selection).
 2. OpenRouter. [Model fallbacks](https://openrouter.ai/docs/guides/routing/model-fallbacks).
 3. Anthropic. [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations).
-4. Langfuse. [Jev-as-a-judge in Langfuse Evaluators](https://langfuse.com/blog/2026-09-22-running-evals-with-jev).
+4. Langfuse. [Jev-as-a-judge in Langfuse Evaluators](https://langfuse.com/blog/2026-09-18-using-typesafes-jev-for-evals).
 5. Langfuse. [Compare experiments](https://langfuse.com/docs/evaluation/experiments/compare-experiments).
 6. LangGraph. [Interrupts](https://docs.langchain.com/oss/python/langgraph/interrupts).
-7. Anthropic. [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem). April 23, 2026.
+7. Anthropic. [An update on recent Claude Code quality reports](https://www.anthropic.com/research/april-23-postmortem). April 23, 2026.
 8. UnvibeCode. [AI Observability in Production](./09_AI_OBSERVABILITY_IMPLEMENTATION.md).
 9. UnvibeCode. [Context, Memory, and State Engineering](./03_CONTEXT_MEMORY_STATE_ENGINEERING.md).

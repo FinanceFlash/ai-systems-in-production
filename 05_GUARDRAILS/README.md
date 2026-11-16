@@ -20,6 +20,10 @@ The goal is not to add the maximum number of checks. The goal is to put the **ri
 
 ---
 
+## Technical guide
+
+[Read Guardrails in Production](Technical_Guide.md) for the architecture, trade-offs, and implementation examples.
+
 ## A simple mental model
 
 ```mermaid
@@ -224,7 +228,7 @@ The verification guide includes stable checklist IDs, evidence requirements, and
 
 The folder:
 
-[Pre-configured guardrail programs](../../../skills/unvibecode_gaurdrails_implemenataion_pack/Pre-configured_gaurdrails_programs/)
+[Pre-configured guardrail programs](../skills/unvibecode_gaurdrails_implemenataion_pack/Pre-configured_gaurdrails_programs/)
 
 contains working examples and starter configurations for common controls:
 

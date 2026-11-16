@@ -20,13 +20,22 @@ Production-grade LLM, RAG, and agentic architectures: from first principles thro
 | 09 | [Observability](09_AI_OBSERVABILITY_IMPLEMENTATION.md) |
 | 10 | [AI operations](10_AI_OPERATIONS_IMPLEMENTATION.md) |
 
-![AI system reference architecture](https://raw.githubusercontent.com/FinanceFlash/unvibecode/main/AI%20Engineering%20Cheatsheet/AI%20system%20design/assets/AI_System_Design_Part_1_Complete_System.png)
+![AI system reference architecture](assets/AI_System_Design_Part_1_Complete_System.png)
 
 ## Learn by engineering responsibility
 
 Start with first principles, then follow a specific application domain such as RAG or agents. Each section emphasizes system boundaries, failure behavior, engineering trade-offs, and verification. Complete the journey through evaluation, serving, observability, and operational readiness.
 
 **Audience:** AI engineers, software engineers, platform architects, technical leaders, and product teams bringing AI applications into production.
+
+## System design interview prep
+
+- [How to approach system design interviews in 45 minutes](https://levelup.gitconnected.com/how-to-approach-system-design-interviews-in-45-minutes-fdb0285f8185)
+
+## Implementation resources
+
+- [Smart Questions Before You Build](smart_questions_before_you_build/) covers requirements, architecture, testing, and operations through 11 focused guides.
+- [Skills and implementation examples](skills/) include the RAG review skill, guardrail notebooks, and companion engineering guides.
 
 ## Contributing
 

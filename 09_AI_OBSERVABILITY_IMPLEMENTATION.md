@@ -506,6 +506,6 @@ That is enough to answer the most important production question:
 4. OpenTelemetry. [Collector internal telemetry](https://opentelemetry.io/docs/collector/internal-telemetry/).
 5. Langfuse. [Evaluate production traffic](https://langfuse.com/docs/evaluation/get-started/online).
 6. LangSmith. [Evaluation types and backtesting](https://docs.langchain.com/langsmith/evaluation-types).
-7. NVIDIA NeMo Guardrails. [Observability overview](https://docs.nvidia.com/nemo/guardrails/latest/observability/index.html).
+7. NVIDIA NeMo Guardrails. [Observability overview](https://docs.nvidia.com/nemo/guardrails/latest/observability/observability).
 8. Langfuse. [Masking](https://langfuse.com/docs/observability/features/masking).
-9. Anthropic. [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents). January 9, 2026.
+9. Anthropic. [Demystifying evals for AI agents](https://www.anthropic.com/research/demystifying-evals-for-ai-agents). January 9, 2026.

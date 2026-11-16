@@ -513,9 +513,9 @@ Load the right task and schema versions, confirm artifact availability, reconcil
 ## References
 
 1. LangChain. [LangGraph persistence](https://docs.langchain.com/oss/python/langgraph/persistence).
-2. Google Agent Development Kit. [State](https://google.github.io/adk-docs/sessions/state/).
+2. Google Agent Development Kit. [State](https://adk.dev/sessions/state/).
 3. LangChain. [Short-term memory](https://docs.langchain.com/oss/python/langchain/short-term-memory) and [prebuilt middleware](https://docs.langchain.com/oss/python/langchain/middleware/built-in).
-4. Anthropic. [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents). September 29, 2025.
+4. Anthropic. [Effective context engineering for AI agents](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents). September 29, 2025.
 5. Charles Packer et al. [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560). 2023; revised 2024.
 6. Prateek Chhikara et al. [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413). 2025. See also [Mem0 documentation](https://docs.mem0.ai/open-source/overview).
 7. [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://github.com/xiaowu0162/LongMemEval). ICLR 2025.
@@ -524,4 +524,4 @@ Load the right task and schema versions, confirm artifact availability, reconcil
 10. LangChain. [Concurrent graph updates](https://docs.langchain.com/oss/python/langgraph/errors/INVALID_CONCURRENT_GRAPH_UPDATE).
 11. Anthropic. [Handle tool calls](https://platform.claude.com/docs/en/agents-and-tools/tool-use/handle-tool-calls).
 12. Vercel AI SDK. [Chatbot message persistence](https://ai-sdk.dev/docs/ai-sdk-ui/chatbot-message-persistence) and [abort behavior with resumable streams](https://ai-sdk.dev/docs/troubleshooting/abort-breaks-resumable-streams).
-13. Anthropic. [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents). November 26, 2025.
+13. Anthropic. [Effective harnesses for long-running agents](https://www.anthropic.com/research/effective-harnesses-for-long-running-agents). November 26, 2025.

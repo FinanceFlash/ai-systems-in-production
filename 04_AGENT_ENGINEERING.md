@@ -813,12 +813,12 @@ It improves validation and integration. Valid JSON can still contain incorrect f
 # 14. Further reading
 
 1. [smolagents: Building good agents](https://github.com/huggingface/smolagents/blob/main/docs/source/en/tutorials/building_good_agents.md) and [Introduction to agents](https://github.com/huggingface/smolagents/blob/main/docs/source/en/conceptual_guides/intro_agents.md).
-2. [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents).
+2. [Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents).
 3. [Google Cloud: Choose a design pattern for your agentic AI system](https://docs.cloud.google.com/architecture/choose-design-pattern-agentic-ai-system).
 4. [Google Research: Towards a science of scaling agent systems](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/) — January 2026; [research paper](https://arxiv.org/abs/2512.08296).
 5. [Anthropic: How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system) — June 2025.
 6. [Multi-agent debate research and implementation](https://github.com/composable-models/llm_multiagent_debate) — ICML 2024.
-7. [Anthropic: Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) — November 2025.
+7. [Anthropic: Effective harnesses for long-running agents](https://www.anthropic.com/research/effective-harnesses-for-long-running-agents) — November 2025.
 8. [LangGraph: Persistence](https://docs.langchain.com/oss/python/langgraph/persistence).
 9. [Google ADK: Parallel agents](https://github.com/google/adk-docs/blob/main/docs/agents/workflow-agents/parallel-agents.md).
 10. [Google Cloud: Use an ADK agent, including cancellation behavior](https://docs.cloud.google.com/gemini-enterprise-agent-platform/scale/runtime/use-an-adk-agent).
