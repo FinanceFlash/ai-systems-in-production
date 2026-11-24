@@ -32,6 +32,8 @@ Start with first principles, then follow a specific application domain such as R
 
 ## System design interview prep
 
+- Want to understand system design intuitively? [Explore Designed to Scale](https://designed-to-scale.vercel.app/).
+
 - [How to approach system design interviews in 45 minutes](https://levelup.gitconnected.com/how-to-approach-system-design-interviews-in-45-minutes-fdb0285f8185)
 
 ## Implementation resources
