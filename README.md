@@ -19,6 +19,8 @@ Production-grade LLM, RAG, and agentic architectures: from first principles thro
 | 08 | [Production serving and cloud architecture](08_PRODUCTION_SERVING_AND_CLOUD_ARCHITECTURE.md) |
 | 09 | [Observability](09_AI_OBSERVABILITY_IMPLEMENTATION.md) |
 | 10 | [AI operations](10_AI_OPERATIONS_IMPLEMENTATION.md) |
+| 11 | [Agentic-first systems](11_AGENTIC_FIRST_SYSTEMS.md) |
+| 12 | [AI and LLM production trade-offs](12_AI_LLM_PRODUCTION_TRADE_OFFS.md) |
 
 ![AI system reference architecture](assets/AI_System_Design_Part_1_Complete_System.png)
 
